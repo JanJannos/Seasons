@@ -6,7 +6,7 @@ const Spinner = () => {
 
             <div className="ui active dimmer">
                 <div className="ui big text loader">
-                        Loading ... Yes yes yes it's still loading 
+                        Loading ... Be Patient
                 </div>
             </div>
 
